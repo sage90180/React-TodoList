@@ -1,5 +1,5 @@
 # Reac 五子棋
-[DEMO](https://sage90180.github.io/react-gomoku/)
+[DEMO](https://sage90180.github.io/react-todolist/index.html)
 
 <img src="todolist.gif" width="600px" /> 
 
